@@ -28,7 +28,6 @@ py-cpuinfo==3.3.0
 statistics==1.0.3.5
 
 urllib3
-certifi
 Jinja2
 Logbook
 MarkupSafe
